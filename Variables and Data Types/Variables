@@ -1,0 +1,18 @@
+"""DATA TYPES::
+    1.INT
+    2.FLOAT
+    3.STRING
+    4.BOOL
+    5.NONE"""
+
+Name = "karan"
+age = 21
+number = 22.48
+con = True
+old = None
+
+print(type(Name))
+print(type(age))
+print(type(number))
+print(type(con))
+print(type(old))
